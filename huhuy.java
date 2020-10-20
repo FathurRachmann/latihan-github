@@ -1,4 +1,4 @@
-package com.company;
+
 class tes1 {
     private int nim;
     private String namalengkap;
